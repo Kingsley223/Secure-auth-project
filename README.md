@@ -292,4 +292,4 @@ Never commit real passwords, API keys, session secrets, or other sensitive crede
 
 **KINGSLEY**
 
-This project was created for cybersecurity learning and practical authentication and session-management training.
+This project was created for cybersecurity learning and practical authentication and session-management training for students.
