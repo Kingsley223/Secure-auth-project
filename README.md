@@ -290,6 +290,6 @@ Never commit real passwords, API keys, session secrets, or other sensitive crede
 
 ## Author
 
-**Cyber Core**
+**KINGSLEY**
 
 This project was created for cybersecurity learning and practical authentication and session-management training.
